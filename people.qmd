@@ -15,16 +15,6 @@ The **Causal Atlas of Ecology** is a research program within the **Behavioral Co
 
 Kelley is an ecologist whose research spans ecological interactions, behavior, complex systems, and quantitative approaches to scientific inference. His work on the Causal Atlas focuses on the scientific framework, ecological interpretation, causal reasoning, and the evaluation of research methods.
 
-### Thaddeus Lipke
-
-**Project collaborator · California Institute of Technology**
-
-Lipke contributes expertise in scientific software engineering, scalable computing, reproducible workflows, and machine-learning systems. His involvement is described in the original project proposal; current role and public listing should be confirmed before publication.
-
 ## Collaboration
 
 The program draws on complementary perspectives from ecology, causal inference, and scientific computing. Future collaborations and research opportunities will be described here as they are established.
-
-::: {.status-note}
-**Before publication:** Confirm preferred names, titles, affiliations, and permission to list all personnel. Add verified institutional profile links or ORCID identifiers if desired.
-:::
