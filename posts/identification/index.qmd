@@ -1,0 +1,26 @@
+---
+title: "Are we answering the question we asked?"
+description: "The importance of defining a target causal quantity before selecting an estimator."
+subtitle: "A research perspective"
+author: "Causal Atlas of Ecology"
+---
+
+A study can fit a sophisticated statistical model, obtain precise coefficients, and still leave its central scientific question unresolved. The issue is not necessarily poor modeling. It may be a mismatch between the question that motivated the work and the quantity the analysis actually estimates.
+
+## From question to target
+
+Suppose an ecologist asks about the **total effect** of canopy cover on bird abundance. That question differs from asking about a direct effect that excludes changes through food resources, or about the association between canopy cover and bird counts among otherwise similar sampled sites. Each quantity can be scientifically useful, but they are not interchangeable.
+
+A target causal quantity, or *estimand*, clarifies what is being compared. A causal model can then help identify the assumptions needed to connect the target to observed data. Only after that step does it make sense to debate an estimator, functional form, or model-fitting procedure.
+
+## Models are tools, not questions
+
+Generalized linear models, mixed models, additive models, and structural equation models can each serve important roles. None independently defines the scientific effect of interest. Adding covariates, selecting paths, or optimizing fit cannot substitute for deciding which effect the study intends to learn.
+
+The practical lesson is not to abandon familiar models. It is to organize their use around clearly specified questions and assumptions.
+
+## A question for readers
+
+Could two analysts fit the same dataset successfully while answering different causal questions? If so, what would you need to specify before deciding which result is relevant?
+
+[Return to Perspectives](../../perspectives.qmd)

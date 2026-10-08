@@ -1,0 +1,16 @@
+---
+title: "About this site"
+---
+
+This is the public-facing website of the **Causal Atlas of Ecology**, a developing research program of the **Behavioral Complexity and Causality Lab** at the **University of Wyoming**.
+
+The site presents the program's motivation, research agenda, development roadmap, and scholarly perspectives. It does not currently provide a comprehensive causal database, a validated public corpus, or a production research service.
+
+### Editorial conventions
+
+- **Vision** describes long-term ambitions, not completed infrastructure.
+- **Research** describes questions and principles, not confirmed empirical conclusions.
+- **Development** distinguishes planned phases from verifiable progress.
+- **Perspectives** are scholarly commentary rather than findings of the Atlas.
+
+For project correspondence, add a verified institutional contact address before publishing.

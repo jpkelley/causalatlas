@@ -1,0 +1,26 @@
+---
+title: "Causal language is not causal identification"
+description: "Why the words used to describe an effect do not establish that the effect has been identified."
+subtitle: "A research perspective"
+author: "Causal Atlas of Ecology"
+---
+
+Ecologists often write that one factor *drives*, *determines*, *shapes*, or *influences* another. These words can express a scientific hypothesis, summarize a proposed mechanism, or interpret an empirical result. But their causal force does not, by itself, establish that the study design and analysis identify the effect being discussed.
+
+## A distinction worth preserving
+
+Consider a study reporting that forest cover is associated with bird abundance. A causal question might ask how bird abundance would change **if forest cover were altered**, holding relevant background conditions appropriately in view. That intervention-oriented question is not answered merely by finding a statistical association. It also requires assumptions about possible common causes, measurement, selection, and the temporal organization of the system.
+
+A paper may be careful in its methods but expansive in its discussion. Another may pose a causal question in its introduction yet report only predictive performance. Neither pattern can be judged adequately by counting a few words in isolation. The scientific meaning depends on the relationship among the question, evidence, analysis, and interpretation.
+
+## Why it matters for synthesis
+
+If a review treats every causal-sounding statement as an identified causal finding, it risks combining conclusions that have different evidentiary status. Conversely, treating all observational findings as merely descriptive can obscure important design-based causal work. A more useful approach is to evaluate the claims and their inferential support separately.
+
+The Causal Atlas of Ecology investigates how such distinctions can be made systematically across scientific literature. That remains a research question, not a completed census of ecological practice.
+
+## A question for readers
+
+When you read that a variable *affects* an outcome, can you identify the intervention, comparison, population, and assumptions that give that statement its causal meaning?
+
+[Return to Perspectives](../../perspectives.qmd)

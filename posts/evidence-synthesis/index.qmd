@@ -1,0 +1,26 @@
+---
+title: "When evidence accumulates, does knowledge?"
+description: "Why aggregating reported relationships is not necessarily the same as synthesizing causal effects."
+subtitle: "A research perspective"
+author: "Causal Atlas of Ecology"
+---
+
+A growing literature can make a scientific topic appear well understood. Many studies may report effects involving the same variables, and a synthesis may combine their estimates into a compelling summary. Yet an important question remains: **are the studies estimating the same thing?**
+
+## The challenge of comparability
+
+Two studies may both examine how habitat disturbance relates to biodiversity, while differing in exposure definition, temporal scale, sampled populations, confounding structure, and treatment of intermediate variables. A coefficient from one analysis may represent a conditional association; another may approximate a total causal effect under explicit assumptions. Averaging them does not automatically create a meaningful causal summary.
+
+This is not an argument against meta-analysis or evidence synthesis. It is an argument for making the inferential target and supporting assumptions part of the synthesis itself.
+
+## Toward structured causal evidence
+
+A richer account of scientific knowledge would describe not only which variables appear together in the literature, but also the questions researchers asked, the assumptions they relied upon, and the limits of what their designs could identify. Such structure might help reveal areas of agreement, unresolved ambiguity, and opportunities for stronger research designs.
+
+Developing and evaluating methods for that kind of synthesis is a long-term objective of the Causal Atlas of Ecology. Its feasibility and limitations must be established through research rather than presumed in advance.
+
+## A question for readers
+
+Before pooling reported effects, can you explain why they represent comparable causal quantities?
+
+[Return to Perspectives](../../perspectives.qmd)

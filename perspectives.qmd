@@ -1,0 +1,16 @@
+---
+title: "Perspectives"
+subtitle: "Short essays on causal reasoning in ecological science"
+listing:
+  contents: "posts/*/index.qmd"
+  type: default
+  sort: "title asc"
+  fields: [title, description]
+  categories: false
+  feed: false
+  sort-ui: false
+  filter-ui: false
+---
+
+The perspectives below introduce conceptual issues that motivate the Causal Atlas of Ecology. They are **research commentaries**, not empirical findings from a completed Atlas. Each essay is intended to clarify a question that deserves careful investigation in ecological science.
+

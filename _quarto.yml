@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/**
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+
+website:
+  title: "Causal Atlas of Ecology"
+  description: "A research program of the Behavioral Complexity and Causality Lab at the University of Wyoming."
+  site-url: "https://jpkelley.github.io/causal-atlas/" # Replace with your actual site URL
+  favicon: assets/favicon.svg
+  navbar:
+    background: "#173c38"
+    foreground: "#f7f5ed"
+    title: "Causal Atlas of Ecology"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Vision
+        href: vision.qmd
+      - text: Research
+        href: research.qmd
+      - text: Development
+        href: development.qmd
+      - text: Perspectives
+        href: perspectives.qmd
+      - text: People
+        href: people.qmd
+  page-footer:
+    left: |
+      **Causal Atlas of Ecology**  
+      A research program of the Behavioral Complexity and Causality Lab  
+      University of Wyoming
+    right: |
+      Research in development · University of Wyoming
+    background: "#edf0ea"
+  search: true
+  reader-mode: false
+  back-to-top-navigation: true
+  open-graph: true
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    link-external-newwindow: true
+    smooth-scroll: true
+    grid:
+      body-width: 850px
+      sidebar-width: 190px
+      margin-width: 230px
+      gutter-width: 1.5rem
+
+execute:
+  freeze: auto

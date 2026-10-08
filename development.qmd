@@ -1,0 +1,70 @@
+---
+title: "Development"
+subtitle: "A phased research program"
+---
+
+The Causal Atlas of Ecology is being developed as a sequence of research phases. The roadmap describes the **intended progression of work**, not a set of completed deliverables or fixed launch commitments. Methods and priorities may change in response to pilot evaluation, expert review, and available resources.
+
+## Research roadmap
+
+::: {.phase}
+<div class="stage">Phase I · Foundational research</div>
+
+### Conceptual foundations
+
+Clarify the relationships among causal questions, scientific claims, assumptions, estimands, identification, and evidence synthesis. Establish the conceptual distinctions that guide subsequent analysis.
+
+**Intended output:** A coherent research framework and initial methodological principles.
+:::
+
+::: {.phase}
+<div class="stage">Phase II · Methods development</div>
+
+### Protocols and reference evaluation
+
+Develop systematic procedures for interpreting and assessing causal information in scientific publications, alongside strategies for expert evaluation and reproducibility.
+
+**Intended output:** Research protocols and evaluation approaches suitable for pilot testing.
+:::
+
+::: {.phase}
+<div class="stage">Phase III · Pilot research</div>
+
+### Testing and validation
+
+Investigate the consistency, interpretability, limitations, and reliability of proposed analytical methods. Use the findings to refine the framework and identify where human expertise remains essential.
+
+**Intended output:** Evidence about the strengths and limitations of candidate methods.
+:::
+
+::: {.phase}
+<div class="stage">Phase IV · Broader analysis</div>
+
+### Expansion across ecological literature
+
+Apply sufficiently evaluated approaches to more diverse ecological studies, examine variation across research contexts, and assess the robustness of emerging patterns.
+
+**Intended output:** Research analyses and manuscripts appropriate to the maturity of the evidence.
+:::
+
+::: {.phase}
+<div class="stage">Phase V · Public research products</div>
+
+### Atlas construction and dissemination
+
+Explore structured synthesis products, documented methods, publications, and appropriate public resources that can support future causal research.
+
+**Intended output:** Public research products whose scope is supported by prior validation.
+:::
+
+## Current focus
+
+The program's initial emphasis is on conceptual development and systematic approaches to evaluating published ecological studies. Protocol refinement and pilot evaluation are part of this early work. The descriptions here are deliberately qualitative; quantitative results will be reported only when appropriately checked and ready for dissemination.
+
+::: {.status-note}
+**Development status (October 2026).** Early-stage research and methods development. The phases above are a roadmap, not a statement that all stages have started. No comprehensive public Atlas or production-scale analysis is claimed.
+:::
+
+## How this page will evolve
+
+As work progresses, this page may include dated, verifiable milestones, links to released publications, and methods documentation. Proposed plans will remain clearly distinguished from completed and validated work.

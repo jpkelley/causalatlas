@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "vision.html",
+    "href": "vision.html",
+    "title": "Vision",
+    "section": "",
+    "text": "Ecologists routinely investigate why populations change, species interact, communities assemble, and ecosystems respond to disturbance. Their studies contribute observations, experiments, statistical estimates, predictions, and explanations. But synthesizing these contributions as causal knowledge is more demanding than collecting the relationships they report.\nStudies can examine similarly named variables yet address different interventions, outcomes, populations, timescales, or causal pathways. Even when authors use comparable causal language, the assumptions supporting their interpretations may differ. An apparent consensus in reported associations need not constitute agreement about an identifiable causal effect."
+  },
+  {
+    "objectID": "vision.html#the-challenge-of-causal-synthesis",
+    "href": "vision.html#the-challenge-of-causal-synthesis",
+    "title": "Vision",
+    "section": "",
+    "text": "Ecologists routinely investigate why populations change, species interact, communities assemble, and ecosystems respond to disturbance. Their studies contribute observations, experiments, statistical estimates, predictions, and explanations. But synthesizing these contributions as causal knowledge is more demanding than collecting the relationships they report.\nStudies can examine similarly named variables yet address different interventions, outcomes, populations, timescales, or causal pathways. Even when authors use comparable causal language, the assumptions supporting their interpretations may differ. An apparent consensus in reported associations need not constitute agreement about an identifiable causal effect."
+  },
+  {
+    "objectID": "vision.html#a-missing-dimension-in-the-literature",
+    "href": "vision.html#a-missing-dimension-in-the-literature",
+    "title": "Vision",
+    "section": "A missing dimension in the literature",
+    "text": "A missing dimension in the literature\nConventional reviews and literature-mining systems are valuable for organizing topics, methods, variables, and conclusions. The Causal Atlas of Ecology asks what additional understanding becomes possible when we also attend to the causal question a study poses, the assumptions its inference requires, and the evidence it provides.\nThis is not a claim that existing ecological studies lack value. Rather, it is an invitation to examine more carefully which kinds of knowledge each study contributes, where uncertainty remains, and when findings are meaningfully comparable."
+  },
+  {
+    "objectID": "vision.html#our-long-term-vision",
+    "href": "vision.html#our-long-term-vision",
+    "title": "Vision",
+    "section": "Our long-term vision",
+    "text": "Our long-term vision\nThe program aims to develop systematic, reproducible approaches for interpreting and evaluating causal knowledge in published ecological research. Over time, validated methods could support structured representations of causal questions, assumptions, and evidence, enabling new kinds of comparison and synthesis across studies.\n\n\n\n\nThree-stage conceptual vision: published research, reconstruction and evaluation, structured causal knowledge.\n\n\n\nLong-term research vision. The diagram illustrates conceptual stages, not an implemented end-to-end system."
+  },
+  {
+    "objectID": "vision.html#why-begin-with-ecology",
+    "href": "vision.html#why-begin-with-ecology",
+    "title": "Vision",
+    "section": "Why begin with ecology?",
+    "text": "Why begin with ecology?\nEcological systems are complex, interconnected, and dynamic. Their study combines experiments, observations, longitudinal measurements, comparative designs, and models across scales. Ecologists also confront familiar inferential challenges: confounding, feedback, imperfect measurement, selection, and context-dependent effects.\nThese characteristics make ecology an especially informative setting for investigating the relationship between scientific questions, causal assumptions, analytical decisions, and conclusions."
+  },
+  {
+    "objectID": "vision.html#potential-beyond-ecology",
+    "href": "vision.html#potential-beyond-ecology",
+    "title": "Vision",
+    "section": "Potential beyond ecology",
+    "text": "Potential beyond ecology\nAlthough ecology is the program’s initial focus, the underlying questions are relevant to many disciplines that attempt to infer causes from heterogeneous bodies of evidence. Any extension beyond ecology would require domain-specific evaluation, methodological adaptation, and independent validation.\n\nScope note. The Atlas is a research program, not presently a complete database of ecological causal relationships. Its long-term form will depend on what the development and validation phases establish."
+  },
+  {
+    "objectID": "posts/identification/index.html",
+    "href": "posts/identification/index.html",
+    "title": "Are we answering the question we asked?",
+    "section": "",
+    "text": "A study can fit a sophisticated statistical model, obtain precise coefficients, and still leave its central scientific question unresolved. The issue is not necessarily poor modeling. It may be a mismatch between the question that motivated the work and the quantity the analysis actually estimates."
+  },
+  {
+    "objectID": "posts/identification/index.html#from-question-to-target",
+    "href": "posts/identification/index.html#from-question-to-target",
+    "title": "Are we answering the question we asked?",
+    "section": "From question to target",
+    "text": "From question to target\nSuppose an ecologist asks about the total effect of canopy cover on bird abundance. That question differs from asking about a direct effect that excludes changes through food resources, or about the association between canopy cover and bird counts among otherwise similar sampled sites. Each quantity can be scientifically useful, but they are not interchangeable.\nA target causal quantity, or estimand, clarifies what is being compared. A causal model can then help identify the assumptions needed to connect the target to observed data. Only after that step does it make sense to debate an estimator, functional form, or model-fitting procedure."
+  },
+  {
+    "objectID": "posts/identification/index.html#models-are-tools-not-questions",
+    "href": "posts/identification/index.html#models-are-tools-not-questions",
+    "title": "Are we answering the question we asked?",
+    "section": "Models are tools, not questions",
+    "text": "Models are tools, not questions\nGeneralized linear models, mixed models, additive models, and structural equation models can each serve important roles. None independently defines the scientific effect of interest. Adding covariates, selecting paths, or optimizing fit cannot substitute for deciding which effect the study intends to learn.\nThe practical lesson is not to abandon familiar models. It is to organize their use around clearly specified questions and assumptions."
+  },
+  {
+    "objectID": "posts/identification/index.html#a-question-for-readers",
+    "href": "posts/identification/index.html#a-question-for-readers",
+    "title": "Are we answering the question we asked?",
+    "section": "A question for readers",
+    "text": "A question for readers\nCould two analysts fit the same dataset successfully while answering different causal questions? If so, what would you need to specify before deciding which result is relevant?\nReturn to Perspectives"
+  },
+  {
+    "objectID": "posts/causal-language/index.html",
+    "href": "posts/causal-language/index.html",
+    "title": "Causal language is not causal identification",
+    "section": "",
+    "text": "Ecologists often write that one factor drives, determines, shapes, or influences another. These words can express a scientific hypothesis, summarize a proposed mechanism, or interpret an empirical result. But their causal force does not, by itself, establish that the study design and analysis identify the effect being discussed."
+  },
+  {
+    "objectID": "posts/causal-language/index.html#a-distinction-worth-preserving",
+    "href": "posts/causal-language/index.html#a-distinction-worth-preserving",
+    "title": "Causal language is not causal identification",
+    "section": "A distinction worth preserving",
+    "text": "A distinction worth preserving\nConsider a study reporting that forest cover is associated with bird abundance. A causal question might ask how bird abundance would change if forest cover were altered, holding relevant background conditions appropriately in view. That intervention-oriented question is not answered merely by finding a statistical association. It also requires assumptions about possible common causes, measurement, selection, and the temporal organization of the system.\nA paper may be careful in its methods but expansive in its discussion. Another may pose a causal question in its introduction yet report only predictive performance. Neither pattern can be judged adequately by counting a few words in isolation. The scientific meaning depends on the relationship among the question, evidence, analysis, and interpretation."
+  },
+  {
+    "objectID": "posts/causal-language/index.html#why-it-matters-for-synthesis",
+    "href": "posts/causal-language/index.html#why-it-matters-for-synthesis",
+    "title": "Causal language is not causal identification",
+    "section": "Why it matters for synthesis",
+    "text": "Why it matters for synthesis\nIf a review treats every causal-sounding statement as an identified causal finding, it risks combining conclusions that have different evidentiary status. Conversely, treating all observational findings as merely descriptive can obscure important design-based causal work. A more useful approach is to evaluate the claims and their inferential support separately.\nThe Causal Atlas of Ecology investigates how such distinctions can be made systematically across scientific literature. That remains a research question, not a completed census of ecological practice."
+  },
+  {
+    "objectID": "posts/causal-language/index.html#a-question-for-readers",
+    "href": "posts/causal-language/index.html#a-question-for-readers",
+    "title": "Causal language is not causal identification",
+    "section": "A question for readers",
+    "text": "A question for readers\nWhen you read that a variable affects an outcome, can you identify the intervention, comparison, population, and assumptions that give that statement its causal meaning?\nReturn to Perspectives"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "The Causal Atlas of Ecology is a research program within the Behavioral Complexity and Causality Lab at the University of Wyoming. The program connects ecological research, causal inference, scientific knowledge synthesis, and computational methods."
+  },
+  {
+    "objectID": "people.html#organizational-home",
+    "href": "people.html#organizational-home",
+    "title": "People",
+    "section": "",
+    "text": "The Causal Atlas of Ecology is a research program within the Behavioral Complexity and Causality Lab at the University of Wyoming. The program connects ecological research, causal inference, scientific knowledge synthesis, and computational methods."
+  },
+  {
+    "objectID": "people.html#research-leadership",
+    "href": "people.html#research-leadership",
+    "title": "People",
+    "section": "Research leadership",
+    "text": "Research leadership\n\nPatrick Kelley, Ph.D.\nPrincipal Investigator · Behavioral Complexity and Causality Lab · University of Wyoming\nKelley is an ecologist whose research spans ecological interactions, behavior, complex systems, and quantitative approaches to scientific inference. His work on the Causal Atlas focuses on the scientific framework, ecological interpretation, causal reasoning, and the evaluation of research methods.\n\n\nThaddeus Lipke\nProject collaborator · California Institute of Technology\nLipke contributes expertise in scientific software engineering, scalable computing, reproducible workflows, and machine-learning systems. His involvement is described in the original project proposal; current role and public listing should be confirmed before publication."
+  },
+  {
+    "objectID": "people.html#collaboration",
+    "href": "people.html#collaboration",
+    "title": "People",
+    "section": "Collaboration",
+    "text": "Collaboration\nThe program draws on complementary perspectives from ecology, causal inference, and scientific computing. Future collaborations and research opportunities will be described here as they are established.\n\nBefore publication: Confirm preferred names, titles, affiliations, and permission to list all personnel. Add verified institutional profile links or ORCID identifiers if desired."
+  },
+  {
+    "objectID": "development.html",
+    "href": "development.html",
+    "title": "Development",
+    "section": "",
+    "text": "The Causal Atlas of Ecology is being developed as a sequence of research phases. The roadmap describes the intended progression of work, not a set of completed deliverables or fixed launch commitments. Methods and priorities may change in response to pilot evaluation, expert review, and available resources."
+  },
+  {
+    "objectID": "development.html#research-roadmap",
+    "href": "development.html#research-roadmap",
+    "title": "Development",
+    "section": "Research roadmap",
+    "text": "Research roadmap\n\n\nPhase I · Foundational research\n\n\nConceptual foundations\nClarify the relationships among causal questions, scientific claims, assumptions, estimands, identification, and evidence synthesis. Establish the conceptual distinctions that guide subsequent analysis.\nIntended output: A coherent research framework and initial methodological principles.\n\n\n\n\nPhase II · Methods development\n\n\nProtocols and reference evaluation\nDevelop systematic procedures for interpreting and assessing causal information in scientific publications, alongside strategies for expert evaluation and reproducibility.\nIntended output: Research protocols and evaluation approaches suitable for pilot testing.\n\n\n\n\nPhase III · Pilot research\n\n\nTesting and validation\nInvestigate the consistency, interpretability, limitations, and reliability of proposed analytical methods. Use the findings to refine the framework and identify where human expertise remains essential.\nIntended output: Evidence about the strengths and limitations of candidate methods.\n\n\n\n\nPhase IV · Broader analysis\n\n\nExpansion across ecological literature\nApply sufficiently evaluated approaches to more diverse ecological studies, examine variation across research contexts, and assess the robustness of emerging patterns.\nIntended output: Research analyses and manuscripts appropriate to the maturity of the evidence.\n\n\n\n\nPhase V · Public research products\n\n\nAtlas construction and dissemination\nExplore structured synthesis products, documented methods, publications, and appropriate public resources that can support future causal research.\nIntended output: Public research products whose scope is supported by prior validation."
+  },
+  {
+    "objectID": "development.html#current-focus",
+    "href": "development.html#current-focus",
+    "title": "Development",
+    "section": "Current focus",
+    "text": "Current focus\nThe program’s initial emphasis is on conceptual development and systematic approaches to evaluating published ecological studies. Protocol refinement and pilot evaluation are part of this early work. The descriptions here are deliberately qualitative; quantitative results will be reported only when appropriately checked and ready for dissemination.\n\nDevelopment status (October 2026). Early-stage research and methods development. The phases above are a roadmap, not a statement that all stages have started. No comprehensive public Atlas or production-scale analysis is claimed."
+  },
+  {
+    "objectID": "development.html#how-this-page-will-evolve",
+    "href": "development.html#how-this-page-will-evolve",
+    "title": "Development",
+    "section": "How this page will evolve",
+    "text": "How this page will evolve\nAs work progresses, this page may include dated, verifiable milestones, links to released publications, and methods documentation. Proposed plans will remain clearly distinguished from completed and validated work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this site",
+    "section": "",
+    "text": "This is the public-facing website of the Causal Atlas of Ecology, a developing research program of the Behavioral Complexity and Causality Lab at the University of Wyoming.\nThe site presents the program’s motivation, research agenda, development roadmap, and scholarly perspectives. It does not currently provide a comprehensive causal database, a validated public corpus, or a production research service.\n\nEditorial conventions\n\nVision describes long-term ambitions, not completed infrastructure.\nResearch describes questions and principles, not confirmed empirical conclusions.\nDevelopment distinguishes planned phases from verifiable progress.\nPerspectives are scholarly commentary rather than findings of the Atlas.\n\nFor project correspondence, add a verified institutional contact address before publishing.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Scientific research program · In development\n\n\n\n\nMapping the causal knowledge embedded in ecological science.\n\nEcology has produced an extraordinary body of research investigating why natural systems behave as they do. Yet the causal knowledge contained in this literature remains difficult to evaluate, compare, and synthesize. Studies may share variables and terminology while asking different questions, invoking different assumptions, and supporting different inferences.\nThe Causal Atlas of Ecology is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.\nExplore the research View development roadmap\n\nA research program of the Behavioral Complexity and Causality Lab · University of Wyoming"
+  },
+  {
+    "objectID": "index.html#the-scientific-challenge",
+    "href": "index.html#the-scientific-challenge",
+    "title": "Home",
+    "section": "The scientific challenge",
+    "text": "The scientific challenge\nA statistical relationship is not automatically an answer to a causal question. Nor do two reported effects necessarily describe the same causal quantity. Meaningful synthesis requires attention to what was asked, what was measured, what assumptions were made, and what the evidence can support.\nThe Atlas seeks to make these distinctions more explicit and, over time, more systematically examinable across the ecological literature.\n\n\n\n\nConceptual relationship among scientific questions, causal assumptions, evidence, and synthesis.\n\n\n\nConceptual framework: causal knowledge synthesis depends on interpreting questions, assumptions, and evidence together. This is a research vision, not a depiction of an operational atlas."
+  },
+  {
+    "objectID": "index.html#a-program-under-development",
+    "href": "index.html#a-program-under-development",
+    "title": "Home",
+    "section": "A program under development",
+    "text": "A program under development\nInitial work focuses on conceptual foundations, systematic evaluation of scientific literature, and approaches for reconstructing and assessing causal claims. The long-term ambition is to develop validated methods that can support broader analysis and synthesis across ecological research.\n\nProject status. The Causal Atlas of Ecology is in an early research and methods-development stage. A comprehensive public atlas, validated large-scale dataset, and production search interface have not yet been launched. See Development for the proposed research phases."
+  },
+  {
+    "objectID": "index.html#explore-the-program",
+    "href": "index.html#explore-the-program",
+    "title": "Home",
+    "section": "Explore the program",
+    "text": "Explore the program\n\nVision: Why causal knowledge synthesis requires more than collecting conclusions.\nResearch: The questions and methodological principles guiding the program.\nDevelopment: The phased path from foundational work to research outputs.\nPerspectives: Short essays on causal reasoning and ecological inference."
+  },
+  {
+    "objectID": "perspectives.html",
+    "href": "perspectives.html",
+    "title": "Perspectives",
+    "section": "",
+    "text": "The perspectives below introduce conceptual issues that motivate the Causal Atlas of Ecology. They are research commentaries, not empirical findings from a completed Atlas. Each essay is intended to clarify a question that deserves careful investigation in ecological science.\n\n\n\n\n\n\n\n\n\nAre we answering the question we asked?\n\n\nThe importance of defining a target causal quantity before selecting an estimator.\n\n\n\n\n\n\n\n\n\n\nCausal language is not causal identification\n\n\nWhy the words used to describe an effect do not establish that the effect has been identified.\n\n\n\n\n\n\n\n\n\n\nWhen evidence accumulates, does knowledge?\n\n\nWhy aggregating reported relationships is not necessarily the same as synthesizing causal effects.\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "posts/evidence-synthesis/index.html",
+    "href": "posts/evidence-synthesis/index.html",
+    "title": "When evidence accumulates, does knowledge?",
+    "section": "",
+    "text": "A growing literature can make a scientific topic appear well understood. Many studies may report effects involving the same variables, and a synthesis may combine their estimates into a compelling summary. Yet an important question remains: are the studies estimating the same thing?"
+  },
+  {
+    "objectID": "posts/evidence-synthesis/index.html#the-challenge-of-comparability",
+    "href": "posts/evidence-synthesis/index.html#the-challenge-of-comparability",
+    "title": "When evidence accumulates, does knowledge?",
+    "section": "The challenge of comparability",
+    "text": "The challenge of comparability\nTwo studies may both examine how habitat disturbance relates to biodiversity, while differing in exposure definition, temporal scale, sampled populations, confounding structure, and treatment of intermediate variables. A coefficient from one analysis may represent a conditional association; another may approximate a total causal effect under explicit assumptions. Averaging them does not automatically create a meaningful causal summary.\nThis is not an argument against meta-analysis or evidence synthesis. It is an argument for making the inferential target and supporting assumptions part of the synthesis itself."
+  },
+  {
+    "objectID": "posts/evidence-synthesis/index.html#toward-structured-causal-evidence",
+    "href": "posts/evidence-synthesis/index.html#toward-structured-causal-evidence",
+    "title": "When evidence accumulates, does knowledge?",
+    "section": "Toward structured causal evidence",
+    "text": "Toward structured causal evidence\nA richer account of scientific knowledge would describe not only which variables appear together in the literature, but also the questions researchers asked, the assumptions they relied upon, and the limits of what their designs could identify. Such structure might help reveal areas of agreement, unresolved ambiguity, and opportunities for stronger research designs.\nDeveloping and evaluating methods for that kind of synthesis is a long-term objective of the Causal Atlas of Ecology. Its feasibility and limitations must be established through research rather than presumed in advance."
+  },
+  {
+    "objectID": "posts/evidence-synthesis/index.html#a-question-for-readers",
+    "href": "posts/evidence-synthesis/index.html#a-question-for-readers",
+    "title": "When evidence accumulates, does knowledge?",
+    "section": "A question for readers",
+    "text": "A question for readers\nBefore pooling reported effects, can you explain why they represent comparable causal quantities?\nReturn to Perspectives"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Causal Atlas of Ecology is organized around four connected lines of inquiry. They define the program’s scientific scope without presupposing the outcomes of ongoing research."
+  },
+  {
+    "objectID": "research.html#causal-language-and-scientific-claims",
+    "href": "research.html#causal-language-and-scientific-claims",
+    "title": "Research",
+    "section": "01 · Causal language and scientific claims",
+    "text": "01 · Causal language and scientific claims\nHow do ecological papers express questions about causes, effects, and mechanisms? How does the language of a study’s motivation compare with its description of methods and its interpretation of results?\nThis theme examines the relationship between what a paper appears to ask and what its authors claim to have learned. It recognizes that descriptive, associational, predictive, and causal statements serve different scientific purposes."
+  },
+  {
+    "objectID": "research.html#causal-identification",
+    "href": "research.html#causal-identification",
+    "title": "Research",
+    "section": "02 · Causal identification",
+    "text": "02 · Causal identification\nUnder what conditions do study designs and analytical choices support the causal effects being discussed? Which assumptions are stated, which are left implicit, and which may be difficult to assess from a published account?\nIdentification concerns whether a causal quantity can, in principle, be learned from available evidence under a specified set of assumptions. It is distinct from choosing a statistical model or obtaining a precise estimate.\n\n\n\n\nA stylized causal diagram showing a common cause, exposure, mediator, and outcome.\n\n\n\nIllustrative causal structure. Arrows express hypothesized causal relationships, not relationships established by data. Different causal questions can require different treatment of the same variables."
+  },
+  {
+    "objectID": "research.html#causal-reconstruction",
+    "href": "research.html#causal-reconstruction",
+    "title": "Research",
+    "section": "03 · Causal reconstruction",
+    "text": "03 · Causal reconstruction\nCan scientific questions, proposed causal structures, and relevant inferential assumptions be reconstructed systematically from published research? How should ambiguity, missing information, and competing interpretations be represented?\nThis theme considers both the promise and limitations of computational assistance. A reconstructed diagram is an interpretation of reported evidence and assumptions, not independent proof of a causal structure."
+  },
+  {
+    "objectID": "research.html#causal-knowledge-synthesis",
+    "href": "research.html#causal-knowledge-synthesis",
+    "title": "Research",
+    "section": "04 · Causal knowledge synthesis",
+    "text": "04 · Causal knowledge synthesis\nWhen do results from separate studies address comparable causal quantities? How can differences in context, measurement, population, intervention, and assumptions be made visible during synthesis?\nThe long-term aim is to move beyond aggregating reported relationships toward evaluating which bodies of evidence can support particular causal questions."
+  },
+  {
+    "objectID": "research.html#methodological-commitments",
+    "href": "research.html#methodological-commitments",
+    "title": "Research",
+    "section": "Methodological commitments",
+    "text": "Methodological commitments\nThe program is guided by five principles:\n\nQuestions before models. State the scientific question and target causal quantity before interpreting an estimator.\nAssumptions made explicit. Separate causal assumptions from statistical associations and fitted relationships.\nIdentification before estimation. Ask whether a target effect is identifiable before debating how precisely it can be estimated.\nUncertainty and ambiguity retained. Treat incomplete reporting and alternative interpretations as substantive limitations, not details to be silently filled in.\nEvaluation and reproducibility. Subject computational procedures to expert scrutiny, documentation, and validation before making broad empirical claims."
+  },
+  {
+    "objectID": "research.html#what-this-page-does-not-claim",
+    "href": "research.html#what-this-page-does-not-claim",
+    "title": "Research",
+    "section": "What this page does not claim",
+    "text": "What this page does not claim\nThese themes describe an active research agenda. They do not imply that all four lines of inquiry have been completed, that automated reconstruction is fully validated, or that the Atlas currently contains a comprehensive body of identified causal effects."
+  }
+]
