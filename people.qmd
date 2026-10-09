@@ -13,8 +13,8 @@ The **Causal Atlas of Ecology** is a research program within the **Behavioral Co
 
 **Principal Investigator · Behavioral Complexity and Causality Lab · University of Wyoming**
 
-Kelley is an ecologist whose research spans ecological interactions, behavior, complex systems, and quantitative approaches to scientific inference. His work on the Causal Atlas focuses on the scientific framework, ecological interpretation, causal reasoning, and the evaluation of research methods.
+Patrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His projects range from studying bird-plant interactions in Hawai‘i to nest predation and animal communication in Panama to developing novel sensors and electronics behavioral quantification to developing new AI models for ecological audio and video. Through the Causal Atlas of Ecology, his lab's research program examines how scientific questions, study designs, and analytical methods support (or undermine) scientific inference.
 
 ## Collaboration
 
-The program draws on complementary perspectives from ecology, causal inference, and scientific computing. Future collaborations and research opportunities will be described here as they are established.
+The program is intended to draw on a diverse suite of scientific perspectives from philosphy, ecology, causal inference, and scientific computing. If you are interested in joining this venture, please reach out.

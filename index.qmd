@@ -1,12 +1,11 @@
 ---
-title: "Home"
-subtitle: "A developing research program"
+title: ""
 page-layout: full
 toc: false
 ---
 
 ::: {.hero}
-<div class="kicker">Scientific research program · In development</div>
+<div class="kicker"> A research venture of the <strong>Behavioral Complexity and Causality Lab</strong> · University of Wyoming</div>
 
 # Causal Atlas of Ecology
 
@@ -18,7 +17,6 @@ The **Causal Atlas of Ecology** is a developing research program investigating h
 
 [Explore the research](research.qmd){.btn .btn-primary} [View development roadmap](development.qmd){.btn .btn-outline-primary}
 
-<div class="affiliation">A research program of the <strong>Behavioral Complexity and Causality Lab</strong> · University of Wyoming</div>
 :::
 
 ::: {.card-grid}

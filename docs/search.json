@@ -116,7 +116,7 @@
     "href": "people.html#research-leadership",
     "title": "People",
     "section": "Research leadership",
-    "text": "Research leadership\n\nPatrick Kelley, Ph.D.\nPrincipal Investigator · Behavioral Complexity and Causality Lab · University of Wyoming\nKelley is an ecologist whose research spans ecological interactions, behavior, complex systems, and quantitative approaches to scientific inference. His work on the Causal Atlas focuses on the scientific framework, ecological interpretation, causal reasoning, and the evaluation of research methods."
+    "text": "Research leadership\n\nPatrick Kelley, Ph.D.\nPrincipal Investigator · Behavioral Complexity and Causality Lab · University of Wyoming\nPatrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His projects range from studying bird interactions in Panama and Hawai‘i to developing a sensor and electronics lab for environmental monitoring and exploring AI tools for ecological audio and video. He also brings measurement science and causal inference to heritage science through the Comic Book Research Lab, investigating the condition and deterioration of collectible materials. Through the Causal Atlas of Ecology, he examines how scientific questions, study designs, and analytical methods support—or undermine—the explanations researchers offer."
   },
   {
     "objectID": "people.html#collaboration",
@@ -163,28 +163,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Causal Atlas of Ecology",
     "section": "",
-    "text": "Scientific research program · In development\n\n\n\n\nMapping the causal knowledge embedded in ecological science.\n\nEcology has produced an extraordinary body of research investigating why natural systems behave as they do. Yet the causal knowledge contained in this literature remains difficult to evaluate, compare, and synthesize. Studies may share variables and terminology while asking different questions, invoking different assumptions, and supporting different inferences.\nThe Causal Atlas of Ecology is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.\nExplore the research View development roadmap\n\nA research program of the Behavioral Complexity and Causality Lab · University of Wyoming"
+    "text": "A research venture of the Behavioral Complexity and Causality Lab · University of Wyoming\n\n\n\n\nMapping the causal knowledge embedded in ecological science.\n\nEcology has produced an extraordinary body of research investigating why natural systems behave as they do. Yet the causal knowledge contained in this literature remains difficult to evaluate, compare, and synthesize. Studies may share variables and terminology while asking different questions, invoking different assumptions, and supporting different inferences.\nThe Causal Atlas of Ecology is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.\nExplore the research View development roadmap"
   },
   {
     "objectID": "index.html#the-scientific-challenge",
     "href": "index.html#the-scientific-challenge",
-    "title": "Home",
+    "title": "Causal Atlas of Ecology",
     "section": "The scientific challenge",
     "text": "The scientific challenge\nA statistical relationship is not automatically an answer to a causal question. Nor do two reported effects necessarily describe the same causal quantity. Meaningful synthesis requires attention to what was asked, what was measured, what assumptions were made, and what the evidence can support.\nThe Atlas seeks to make these distinctions more explicit and, over time, more systematically examinable across the ecological literature.\n\n\n\n\nConceptual relationship among scientific questions, causal assumptions, evidence, and synthesis.\n\n\n\nConceptual framework: causal knowledge synthesis depends on interpreting questions, assumptions, and evidence together. This is a research vision, not a depiction of an operational atlas."
   },
   {
     "objectID": "index.html#a-program-under-development",
     "href": "index.html#a-program-under-development",
-    "title": "Home",
+    "title": "Causal Atlas of Ecology",
     "section": "A program under development",
     "text": "A program under development\nInitial work focuses on conceptual foundations, systematic evaluation of scientific literature, and approaches for reconstructing and assessing causal claims. The long-term ambition is to develop validated methods that can support broader analysis and synthesis across ecological research.\n\nProject status. The Causal Atlas of Ecology is in an early research and methods-development stage. A comprehensive public atlas, validated large-scale dataset, and production search interface have not yet been launched. See Development for the proposed research phases."
   },
   {
     "objectID": "index.html#explore-the-program",
     "href": "index.html#explore-the-program",
-    "title": "Home",
+    "title": "Causal Atlas of Ecology",
     "section": "Explore the program",
     "text": "Explore the program\n\nVision: Why causal knowledge synthesis requires more than collecting conclusions.\nResearch: The questions and methodological principles guiding the program.\nDevelopment: The phased path from foundational work to research outputs.\nPerspectives: Short essays on causal reasoning and ecological inference."
   },
