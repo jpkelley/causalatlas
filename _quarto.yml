@@ -11,11 +11,13 @@ website:
   title: "Causal Atlas of Ecology"
   description: "A research program of the Behavioral Complexity and Causality Lab at the University of Wyoming."
   site-url: "https://jpkelley.github.io/causal-atlas/" # Replace with your actual site URL
-  favicon: assets/favicon.svg
+  favicon: assets/favicon_io/favicon-32x32.png
   navbar:
+    title: false
+    logo: assets/causalatlas_logo2.png
+    logo-alt: "Causal Atlas of Ecology"
     background: "#173c38"
     foreground: "#f7f5ed"
-    title: "Causal Atlas of Ecology"
     left:
       - text: Home
         href: index.qmd
