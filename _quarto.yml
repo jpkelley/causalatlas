@@ -14,7 +14,7 @@ website:
   favicon: assets/favicon_io/favicon-32x32.png
   navbar:
     title: false
-    logo: assets/causalatlas_logo2.png
+    logo: assets/causalatlas_logo4.png
     logo-alt: "Causal Atlas of Ecology"
     background: "#173c38"
     foreground: "#f7f5ed"
@@ -27,10 +27,8 @@ website:
         href: research.qmd
       - text: Development
         href: development.qmd
-      - text: Perspectives
-        href: perspectives.qmd
-      - text: People
-        href: people.qmd
+      - text: Team
+        href: team.qmd
   page-footer:
     left: |
       **Causal Atlas of Ecology**  

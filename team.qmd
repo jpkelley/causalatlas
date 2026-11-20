@@ -1,0 +1,26 @@
+---
+title: "The Team"
+subtitle: ""
+---
+
+
+
+### Patrick Kelley, Ph.D.
+
+**Principal Investigator | Behavioral Complexity and Causality Lab | University of Wyoming**
+
+Patrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, artificial intelligence, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His research spans bird–plant interactions in Hawaiʻi, nest predation and animal communication in Panama, and the development of novel sensors and electronic instrumentation for quantifying animal behavior. Beyond ecology, he has contributed to the development and evaluation of large language models (LLMs) through professional work in AI training, scientific reasoning, and model assessment. His interdisciplinary research also extends to heritage paper science, where he applies structural causal models and experimental approaches to investigate the mechanisms of paper degradation, preservation, and conservation treatments. Across these efforts, he explores how both existing LLMs and specialized, locally trained AI models can support scientific discovery and evidence synthesis. Through the Causal Atlas of Ecology, his lab is developing computational approaches to extracting and organizing causal knowledge from the scientific literature while examining how scientific questions, study designs, and analytical methods support—or undermine—valid scientific inference.
+
+### Kamryn Crozier 
+
+**Research assistant| Behavioral Complexity and Causality Lab | University of Wyoming**
+
+Originally from Cheyenne, Wyoming, Kamryn is an undergraduate student at the University of Wyoming majoring in Physiology with a minor in Neuroscience. As a member of the Behavioral Complexity and Causality Lab, she is helping develop the computational infrastructure for the Causal Atlas of Ecology. In Spring 2027, she will help coordinate the annotation process with graduate student researchers, contributing to the development of a human-validated dataset for evaluating AI interpretations of scientific evidence. With an interest in pursuing a career in the medical field, her aims are to gain hands-on research experience and to strengthen her ability to read and critically evaluate primary scientific literature. She has a particular interest in applying the project's methods to medical research as a complementary project. Her love of the outdoors and curiosity about how nature works bring a personal connection to her work in biological research.
+
+### Graduate students
+
+In Spring 2027, five University of Wyoming graduate students will join the Causal Atlas of ECology to independently annotate scientific statements extracted from the ecological literature, identify causal relationships, and classify types of scientific claims. Their annotations will provide a human-validated reference dataset for evaluating AI-generated classifications, quantifying variability among human annotators, and improving the accuracy of automated causal knowledge extraction.
+
+## External Team Members (maybe you?)
+
+The program is intended to draw on a diverse suite of scientific perspectives from philosphy, ecology, causal inference, and scientific computing. If you are interested in joining or advising this venture, please reach out.

@@ -15,6 +15,8 @@ Ecology has produced an extraordinary body of research investigating why natural
 
 The **Causal Atlas of Ecology** is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.
 
+The **Causal Atlas of Ecology** is a research program within the **Behavioral Complexity and Causality Lab** at the **University of Wyoming**. The program connects ecological research, causal inference, scientific knowledge synthesis, and computational methods.
+
 [Explore the research](research.qmd){.btn .btn-primary} [View development roadmap](development.qmd){.btn .btn-outline-primary}
 
 :::

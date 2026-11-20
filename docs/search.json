@@ -100,9 +100,9 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "The Team",
     "section": "",
-    "text": "The Causal Atlas of Ecology is a research program within the Behavioral Complexity and Causality Lab at the University of Wyoming. The program connects ecological research, causal inference, scientific knowledge synthesis, and computational methods."
+    "text": "Principal Investigator | Behavioral Complexity and Causality Lab | University of Wyoming\nPatrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, artificial intelligence, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His research spans bird–plant interactions in Hawaiʻi, nest predation and animal communication in Panama, and the development of novel sensors and electronic instrumentation for quantifying animal behavior. Beyond ecology, he has contributed to the development and evaluation of large language models (LLMs) through professional work in AI training, scientific reasoning, and model assessment. His interdisciplinary research also extends to heritage paper science, where he applies structural causal models and experimental approaches to investigate the mechanisms of paper degradation, preservation, and conservation treatments. Across these efforts, he explores how both existing LLMs and specialized, locally trained AI models can support scientific discovery and evidence synthesis. Through the Causal Atlas of Ecology, his lab is developing computational approaches to extracting and organizing causal knowledge from the scientific literature while examining how scientific questions, study designs, and analytical methods support—or undermine—valid scientific inference."
   },
   {
     "objectID": "people.html#organizational-home",
@@ -115,8 +115,8 @@
     "objectID": "people.html#research-leadership",
     "href": "people.html#research-leadership",
     "title": "People",
-    "section": "Research leadership",
-    "text": "Research leadership\n\nPatrick Kelley, Ph.D.\nPrincipal Investigator · Behavioral Complexity and Causality Lab · University of Wyoming\nPatrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His projects range from studying bird-plant interactions in Hawai‘i to nest predation and animal communication in Panama to developing novel sensors and electronics behavioral quantification to developing new AI models for ecological audio and video. Through the Causal Atlas of Ecology, his lab’s research program examines how scientific questions, study designs, and analytical methods support (or undermine) scientific inference."
+    "section": "",
+    "text": "Principal Investigator | Behavioral Complexity and Causality Lab | University of Wyoming\nPatrick Kelley is an ecologist whose work connects tropical field research, animal behavior, complex systems, artificial intelligence, and causal inference. With more than 25 years of research experience, he leads the Behavioral Complexity and Causality Lab at the University of Wyoming. His research spans bird–plant interactions in Hawaiʻi, nest predation and animal communication in Panama, and the development of novel sensors and electronic instrumentation for quantifying animal behavior. Beyond ecology, he has contributed to the development and evaluation of large language models (LLMs) through professional work in AI training, scientific reasoning, and model assessment. His interdisciplinary research also extends to heritage paper science, where he applies structural causal models and experimental approaches to investigate the mechanisms of paper degradation, preservation, and conservation treatments. Across these efforts, he explores how both existing LLMs and specialized, locally trained AI models can support scientific discovery and evidence synthesis. Through the Causal Atlas of Ecology, his lab is developing computational approaches to extracting and organizing causal knowledge from the scientific literature while examining how scientific questions, study designs, and analytical methods support—or undermine—valid scientific inference."
   },
   {
     "objectID": "people.html#collaboration",
@@ -165,7 +165,7 @@
     "href": "index.html",
     "title": "Causal Atlas of Ecology",
     "section": "",
-    "text": "A research venture of the Behavioral Complexity and Causality Lab · University of Wyoming\n\n\n\n\nMapping the causal knowledge embedded in ecological science.\n\nEcology has produced an extraordinary body of research investigating why natural systems behave as they do. Yet the causal knowledge contained in this literature remains difficult to evaluate, compare, and synthesize. Studies may share variables and terminology while asking different questions, invoking different assumptions, and supporting different inferences.\nThe Causal Atlas of Ecology is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.\nExplore the research View development roadmap"
+    "text": "A research venture of the Behavioral Complexity and Causality Lab · University of Wyoming\n\n\n\n\nMapping the causal knowledge embedded in ecological science.\n\nEcology has produced an extraordinary body of research investigating why natural systems behave as they do. Yet the causal knowledge contained in this literature remains difficult to evaluate, compare, and synthesize. Studies may share variables and terminology while asking different questions, invoking different assumptions, and supporting different inferences.\nThe Causal Atlas of Ecology is a developing research program investigating how ecological studies formulate causal questions, support their claims, and contribute to an accumulating body of causal knowledge.\nThe Causal Atlas of Ecology is a research program within the Behavioral Complexity and Causality Lab at the University of Wyoming. The program connects ecological research, causal inference, scientific knowledge synthesis, and computational methods.\nExplore the research View development roadmap"
   },
   {
     "objectID": "index.html#the-scientific-challenge",
@@ -271,5 +271,26 @@
     "title": "Research",
     "section": "What this page does not claim",
     "text": "What this page does not claim\nThese themes describe an active research agenda. They do not imply that all four lines of inquiry have been completed, that automated reconstruction is fully validated, or that the Atlas currently contains a comprehensive body of identified causal effects."
+  },
+  {
+    "objectID": "people.html#data-infrastructure",
+    "href": "people.html#data-infrastructure",
+    "title": "People",
+    "section": "Data infrastructure",
+    "text": "Data infrastructure\n\nKamryn Crozier\nOriginally from Cheyenne, Wyoming, Kamryn is an undergraduate student at the University of Wyoming majoring in Physiology with a minor in Neuroscience. As a member of the Behavioral Complexity and Causality Lab, she is helping develop the computational infrastructure for the Causal Atlas of Ecology. In Spring 2027, she will help coordinate the annotation process with graduate student researchers, contributing to the development of a human-validated dataset for evaluating AI interpretations of scientific evidence. With an interest in pursuing a career in the medical field, her aims are to gain hands-on research experience and to strengthen her ability to read and critically evaluate primary scientific literature. She has a particular interest in applying the project’s methods to medical research as a complementary project. Her love of the outdoors and curiosity about how nature works bring a personal connection to her work in biological research."
+  },
+  {
+    "objectID": "people.html#data-collection",
+    "href": "people.html#data-collection",
+    "title": "People",
+    "section": "Data collection",
+    "text": "Data collection\nIn Spring 2027, five University of Wyoming graduate students will join the Causal Atlas of ECology to independently annotate scientific statements extracted from the ecological literature, identify causal relationships, and classify types of scientific claims. Their annotations will provide a human-validated reference dataset for evaluating AI-generated classifications, quantifying variability among human annotators, and improving the accuracy of automated causal knowledge extraction."
+  },
+  {
+    "objectID": "people.html#other-collaborators-maybe-you",
+    "href": "people.html#other-collaborators-maybe-you",
+    "title": "The Team",
+    "section": "Other collaborators (maybe you?)",
+    "text": "Other collaborators (maybe you?)\nThe program is intended to draw on a diverse suite of scientific perspectives from philosphy, ecology, causal inference, and scientific computing. If you are interested in joining or advising this venture, please reach out."
   }
 ]
