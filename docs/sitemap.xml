@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jpkelley.github.io/causal-atlas/vision.html</loc>
-    <lastmod>2026-10-08T23:28:09.776Z</lastmod>
+    <lastmod>2026-10-08T17:38:10.033Z</lastmod>
   </url>
   <url>
     <loc>https://jpkelley.github.io/causal-atlas/posts/identification/index.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://jpkelley.github.io/causal-atlas/development.html</loc>
-    <lastmod>2026-10-08T23:28:09.733Z</lastmod>
+    <lastmod>2026-11-20T18:54:52.711Z</lastmod>
   </url>
   <url>
     <loc>https://jpkelley.github.io/causal-atlas/about.html</loc>
@@ -38,6 +38,10 @@
   </url>
   <url>
     <loc>https://jpkelley.github.io/causal-atlas/research.html</loc>
-    <lastmod>2026-10-08T23:28:09.775Z</lastmod>
+    <lastmod>2026-11-20T21:31:08.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jpkelley.github.io/causal-atlas/team.html</loc>
+    <lastmod>2026-11-20T16:48:21.780Z</lastmod>
   </url>
 </urlset>
